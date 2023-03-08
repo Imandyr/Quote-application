@@ -1,0 +1,9 @@
+Requirements for this project is:
+
+	MySQL:
+		MySQL server for storing the database;
+		MySQL Python connector for Python conncetion;
+
+	Requirement Python packages:
+		mysql.connector;
+		logger;
